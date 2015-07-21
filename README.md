@@ -1,2 +1,1 @@
-# refraction #
-## it's a thing ##
+# Refraction #
